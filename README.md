@@ -46,7 +46,7 @@
 
   </details>
 </div>
-<br />
+<br /><br /><br /><br />
 <div>
   <details>
     <summary align="left">:zap: GitHub Streaks</summary>
