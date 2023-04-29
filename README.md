@@ -49,7 +49,7 @@
 <br />
 <div>
   <details>
-    <summary align="bottom">:zap: GitHub Streaks</summary>
+    <summary align="left">:zap: GitHub Streaks</summary>
 
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-1234&" alt="Harshil-1234" />
 
