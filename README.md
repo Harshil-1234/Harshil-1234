@@ -41,21 +41,20 @@
 <div>
   <details>
     <summary align="left">:zap: GitHub Stats</summary>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Harshil-1234&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Harshil-1234" />
-
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Harshil-1234&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Harshil-1234" />
+    </div>
   </details>
 </div>
+
 <br />
-<br />
-<br />
-<br />
-<br /><br />
+
 <div>
   <details>
     <summary align="left">:zap: GitHub Streaks</summary>
-
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-1234&" alt="Harshil-1234" />
-
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-1234&" alt="Harshil-1234" />
+    </div>
   </details>
 </div>
+
