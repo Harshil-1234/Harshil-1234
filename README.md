@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new opportunities to learn and grow my network
-- 🥅 2022 Goals: Learn more about Coding and choose a career path
+- 🥅 Goals: Keep on learning new technologies and build new and innovative softwares
 - ⚡ Fun fact: I love to draw and play all kinds of sports and yeah CODING !!
 
 ### Connect with me:
